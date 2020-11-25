@@ -1,4 +1,4 @@
 ### 0.Git Basics - DONE
-![Udacity Git Course](screenshots/0. GIT Basics)
-![Learn Git Branching Task1](screenshots/0. GIT Basics)
-![Learn Git Branching Task2](screenshots/0. GIT Basics)
+![alt](D:\kottans-frontend\screenshots\0. GIT Basics\Udacity Git Course.png)
+![alt](D:\kottans-frontend\screenshots\0. GIT Basics\Learn Git Branching Task1.png)
+![alt](D:\kottans-frontend\screenshots\0. GIT Basics\Learn Git Branching Task2.png)
